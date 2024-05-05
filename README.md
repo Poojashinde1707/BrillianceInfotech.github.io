@@ -1,2 +1,1 @@
-# BrillianceInfotech
-Web Site of Brilliance Infotech
+"# YashodaInfotech.github.io" 
